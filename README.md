@@ -1,10 +1,11 @@
 ### Hi there, I'm Eliott MAUBERT 👋
 
-I'm a Master's student in Artificial Intelligence with a passion for Full-Stack Development and a strong background in Software Engineering. I love building modern, scalable applications and continuously improving my skills.
+21-year-old student in Master 1 Computer Science, specializing in Artificial Intelligence at Le Mans University, passionate about innovative technologies and solving complex problems. I have a first background in Full-Stack Development in an apprenticeship, mastering application development, modern web technologies, and the integration of AI solutions. I love building modern, scalable applications and continuously improving my skills.
 
 🔍 Currently looking for a 3-month internship starting from May 5th, 2025 to apply my skills in real-world projects and gain hands-on experience.
 ### 🔥 About Me
-- 🎓 **Master’s in Computer Science (AI specialization)**
+- 🎓 **Master’s in Computer Science (AI specialization)** from Le Mans University
+- 💼 **Previous experience as a Full-Stack Developer in an apprenticeship**
 - 💻 **Full-Stack Developer** (React, Node.js, Python, Django, etc.)
 - 🚀 **Aspiring AI Engineer**
 - 🏋️ **Currently working on improving my fitness**
