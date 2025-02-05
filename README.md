@@ -67,7 +67,7 @@ French 21 year old student in Master 1 Computer Science, specialization in Artif
 ### 📌 Featured Projects
 - 🌐 [Portfolio Website](#) - A modern **Bento UI** inspired portfolio built with **React & TailwindCSS**
 - ♪♫♪ [Music together](#) - An interactive music collaboration platform for artists using **React, Node.js, WebSockets, Supabase**
-- 🌀 [Maze simualator](#) - A maze-solving simulator showcasing algorithmic problem solving with **React, Node.js**
+- 🌀 [Maze simualator](https://github.com/Eliott133/maze-simulator) - A maze-solving simulator showcasing algorithmic problem solving with **React, Node.js**
 
 
 ### 🚀 Let's Connect!
