@@ -66,10 +66,10 @@ French 21 year old student in Master 1 Computer Science, specialization in Artif
 
 ### 📌 Featured Projects
 - 🌐 [Portfolio Website](#) - A modern **Bento UI** inspired portfolio built with **React & TailwindCSS**
-- ♪♫♪ [Music together](#) - An interactive music collaboration platform for artists using **React, Node.js, WebSockets, Supabase**
+- ♪♫♪ [Music together](#) - An interactive music collaboration platform using **React, Node.js, WebSockets, Supabase**
 - 🌀 [Maze simualator](https://github.com/Eliott133/maze-simulator) - A maze-solving simulator showcasing algorithmic problem solving with **React, Node.js**
 
 
 ### 🚀 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-m-680404251/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-maubert/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eliott-portfolio.netlify.app/)
