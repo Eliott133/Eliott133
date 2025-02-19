@@ -53,6 +53,8 @@ French 21 year old student in Master 1 Computer Science, specialization in Artif
 ### 🧑‍💻🔄 Methodologies
 - **Agile (Scrum, Kanban)**
 - **TDD**
+- **BDD**
+- **DDD**
 - **Code Review**
 - **Design Patterns**
 - **Specifications**
